@@ -14,6 +14,4 @@ This is a beginner-level machine learning project that uses **Naive Bayes** to a
 ```bash
 git clone https://github.com/your-username/sentiment-analysis.git
 cd sentiment-analysis
-
-
 ![Sample Output](sentiment_analysis_output.png)
